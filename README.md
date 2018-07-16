@@ -8,11 +8,12 @@
 
 ## Contributers
 
-See how to contribute
 
-- [Piyush Chauhna](githib.com/piyushchuahn) [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
+- [Piyush Chauham](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 
-### [Contribute and Make a PR](https://help.github.com/articles/creating-a-pull-request/)
+### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
-- If you encounter a page that in not in Links.md
+See [how to contribute](https://help.github.com/articles/creating-a-pull-request/)
+
+- If you encounter a page that in not in [Links.md](https://github.com/piyushchauhan/iitp_pages/blob/master/Links.md)
 - If you want you add your changes
