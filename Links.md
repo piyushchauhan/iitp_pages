@@ -10,7 +10,6 @@
 
 ### Admin and Deps
 - https://www.facebook.com/IndianInstituteOfTechnologyPatna/
-- https://www.facebook.com/IITPatnaYOLO/
 - https://www.facebook.com/iitpatna.tpc/
 - https://www.facebook.com/cseiitp/
 - https://www.facebook.com/IIT-Patna-Mechanical-Engineering-Dept-187078881305027/
