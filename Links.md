@@ -35,6 +35,11 @@
 ### Cultural Clubs
 - https://www.facebook.com/iitp.sociocultural/
 - https://www.facebook.com/QCIITP/
+- https://www.facebook.com/yavanika.iitp/
+- https://www.facebook.com/DancecClubIITPatna/
+- https://www.facebook.com/pixxeliitp/
+- https://www.facebook.com/literaryclub.iitp/
+- https://www.facebook.com/musicclubiitpatna/
 
 
 ### Others
