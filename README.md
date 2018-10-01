@@ -1,5 +1,8 @@
 # IITP_Social_Pages
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 ## Tasks
 
 - Browse all the pages pages. Atleast get an idea what it is
@@ -22,3 +25,5 @@ See [how to contribute](https://help.github.com/articles/creating-a-pull-request
 
 - If you encounter a page that in not in [Links.md](https://github.com/piyushchauhan/iitp_pages/blob/master/Links.md)
 - If you want you add your changes
+
+## If you liked the repo don't forget to star it
