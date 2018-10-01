@@ -38,6 +38,8 @@
 
 
 ### Others
+- https://www.facebook.com/ainlpmliitp/
+- https://www.facebook.com/search/str/nss+iitp/keywords_search
 - https://www.facebook.com/iit.njath/
 - https://www.facebook.com/BVCIITP/
 - https://www.facebook.com/iciitp/
@@ -50,5 +52,9 @@
 - https://www.facebook.com/iitpfreshman/
 
 ## Twitter
+- https://twitter.com/nss_iitp
 
-### Fests
+## Websites:-
+- https://njack-iitp.org/
+- https://www.iitp.ac.in/ace/
+- http://iitpmotorsports.in/
