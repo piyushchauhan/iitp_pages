@@ -8,7 +8,7 @@
 - https://www.facebook.com/INFINITO2K18/
 - https://www.facebook.com/Nebula-IIT-Patna-218670981589517/
 
-### Admin and Deps
+### Admin and Depts
 - https://www.facebook.com/IndianInstituteOfTechnologyPatna/
 - https://www.facebook.com/iitpatna.tpc/
 - https://www.facebook.com/cseiitp/
@@ -42,7 +42,7 @@
 - https://www.facebook.com/musicclubiitpatna/
 
 
-### Others
+### Others:
 - https://www.facebook.com/ainlpmliitp/
 - https://www.facebook.com/search/str/nss+iitp/keywords_search
 - https://www.facebook.com/iit.njath/
@@ -56,7 +56,7 @@
 - https://www.facebook.com/IITPResearchForum/
 - https://www.facebook.com/iitpfreshman/
 
-## Twitter
+## Twitter:
 - https://twitter.com/nss_iitp
 
 ## Websites:-
@@ -64,7 +64,7 @@
 - https://www.iitp.ac.in/ace/
 - http://iitpmotorsports.in/
 
-## Instagram
+## Instagram:
 - https://www.instagram.com/anwesha.iitp/
 - https://www.instagram.com/celestaiitp_official/
 - https://www.instagram.com/yavanika_iitp/
