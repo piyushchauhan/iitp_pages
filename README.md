@@ -5,7 +5,7 @@
 
 ## Tasks
 
-- Browse all the pages. Atleast get an idea what it is
+- Browse all the pages. Atleast get an idea what it is!
 - Generate a social page plugin of a page with the following configurations. For example see [here](https://developers.facebook.com/docs/plugins/page-plugin/)
   - Tabs : timeline
   - Height : 300
@@ -18,7 +18,7 @@
 
 - [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 - [Vatsal Singhal](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
-
+-[Prem Bhawnani](githib.com/Prem-14) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
 See [how to contribute](https://help.github.com/articles/creating-a-pull-request/)
