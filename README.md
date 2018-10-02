@@ -17,8 +17,8 @@
 ## Contributers
 
 - [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
-- [Vatsal Singhal](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
-yogeshduey
+- [Vatsal Singhal](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsal
+- [yogeshdubey](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=yogeshdubey33
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
 See [how to contribute](https://help.github.com/articles/creating-a-pull-request/)
