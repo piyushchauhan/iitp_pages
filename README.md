@@ -21,11 +21,11 @@
 - [Shashwat Mahajan](https://github.com/shashwat211)
 - [Yogesh Dubey](https://githib.com/yogeshdubey33) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=yogeshdubey33
 - [Akshat Jain](https://github.com/Akshat99) [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Akshat99)
-- [Subhang V S]
+- [Subhang V S]()
 - [Hrishabh Raj](https://github.com/hrisbh10) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=hrisbh10)
 - [Prem Bhawnani](https://githib.com/Prem-14) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 - [Neeraj Goyal](https://githib.com/goyal9314) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=goyal9314)
-- [Maheeth]
+- [Maheeth]()
 - [Anmol Chaddha](https://github.com/chanmol1999)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
