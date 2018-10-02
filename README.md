@@ -22,6 +22,7 @@
 - [Yogesh Dubey](https://githib.com/yogeshdubey33) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=yogeshdubey33
 - [Akshat Jain](https://github.com/Akshat99) [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Akshat99)
 - [Subhang V S]
+- [Hrishabh Raj](https://github.com/hrisbh10) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=hrisbh10)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
