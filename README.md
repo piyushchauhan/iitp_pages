@@ -16,7 +16,6 @@
 
 ## Contributers:
 
-
 - [Piyush Chauhan](https://github.com/piyushchauhan) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 - [Vatsal Singhal](https://github.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
 - [Shashwat Mahajan](https://github.com/shashwat211)
