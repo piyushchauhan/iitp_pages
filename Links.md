@@ -63,3 +63,8 @@
 - https://njack-iitp.org/
 - https://www.iitp.ac.in/ace/
 - http://iitpmotorsports.in/
+
+## Instagram
+- https://www.instagram.com/anwesha.iitp/
+- https://www.instagram.com/celestaiitp_official/
+- https://www.instagram.com/yavanika_iitp/
