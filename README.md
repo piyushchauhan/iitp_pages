@@ -16,7 +16,7 @@
 
 ## Contributers
 
-- [Piyush Chauhan](github.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
+- [Piyush Chauhan](github.com/piyushchauhan) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 - [Vatsal Singhal](github.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
 - [Ritwiz Sinha](github.com/ritwizsinha)-[View Contributions](https://github.com/ritwizsinha/iitp_pages/commits?author=ritwizsinha)
 
