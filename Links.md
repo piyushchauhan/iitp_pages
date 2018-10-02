@@ -55,6 +55,7 @@
 - https://www.facebook.com/AabharIITPatna/
 - https://www.facebook.com/IITPResearchForum/
 - https://www.facebook.com/iitpfreshman/
+- https://www.facebook.com/nssiitp
 
 ## Twitter
 - https://twitter.com/nss_iitp
