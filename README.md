@@ -19,6 +19,7 @@ pages. Atleast get an idea what it is
 
 - [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 - [Vatsal Singhal](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
+- [Hrishabh Raj](github.com/hrisbh10) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=hrisbh10)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
