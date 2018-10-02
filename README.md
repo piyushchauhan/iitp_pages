@@ -18,6 +18,7 @@
 
 - [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 - [Vatsal Singhal](githib.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
+- [Abhishek Chopra](githib.com/abhishekchopra13) - [View Contributions](https://github.com/abhishekchopra13/iitp_pages/commits/master)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
