@@ -25,6 +25,7 @@
 - [Hrishabh Raj](https://github.com/hrisbh10) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=hrisbh10)
 - [Prem Bhawnani](https://githib.com/Prem-14) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 - [Neeraj Goyal](https://githib.com/goyal9314) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=goyal9314)
+- [Maheeth]
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
