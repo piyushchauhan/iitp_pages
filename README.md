@@ -23,6 +23,7 @@
 - [Akshat Jain](https://github.com/Akshat99) [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Akshat99)
 - [Subhang V S]
 - [Hrishabh Raj](https://github.com/hrisbh10) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=hrisbh10)
+- [Prem Bhawnani](https://githib.com/Prem-14) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
