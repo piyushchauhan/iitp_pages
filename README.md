@@ -20,6 +20,7 @@
 - [Vatsal Singhal](https://github.com/vatsalsin) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=vatsalsin)
 - [Shashwat Mahajan](https://github.com/shashwat211)
 - [Yogesh Dubey](https://githib.com/yogeshdubey33) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=yogeshdubey33
+- [Akshat Jain](https://github.com/Akshat99) [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Akshat99)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
