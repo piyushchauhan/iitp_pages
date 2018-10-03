@@ -30,6 +30,7 @@
 - [Anmol Chaddha](https://github.com/chanmol1999)
 - [Aryan Kothari](https://github.com/aryankothari2000)
 - [Aman Kumar](https://github.com/Aman1124) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Aman1124)
+- [Prem Bhawnani](https://github.com/Prem-14)  - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
