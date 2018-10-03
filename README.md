@@ -28,6 +28,7 @@
 - [Neeraj Goyal](https://githib.com/goyal9314) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=goyal9314)
 - [Maheeth]()
 - [Anmol Chaddha](https://github.com/chanmol1999)
+- [Aryan Kothari](https://githib.com/aryankothari2000)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
