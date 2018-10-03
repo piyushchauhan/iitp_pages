@@ -11,8 +11,9 @@
   - Height : 300
   - [X] Adapt to plugin container width. **DO NOT** enter anything in width box.
   - [X] Hide Cover Photo.
+  - [X] Twitter plugin
   - Uncheck rest all options.
-- Click on *Get Code* buttoon and switch to Iframe tab. Put that page's plugin (IFrame) code in `index.html` along with some title and appropriate styling.
+- Click on *Get Code* button and switch to Iframe tab. Put that page's plugin (IFrame) code in `index.html` along with some title and appropriate styling.
 
 ## Contributers:
 
