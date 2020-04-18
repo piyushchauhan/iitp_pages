@@ -64,6 +64,7 @@
 - https://njack-iitp.org/
 - https://www.iitp.ac.in/ace/
 - http://iitpmotorsports.in/
+- https://apeireon.iitp.ac.in/
 
 ## Instagram:
 - https://www.instagram.com/anwesha.iitp/
